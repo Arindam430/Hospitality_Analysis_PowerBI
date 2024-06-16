@@ -1,6 +1,4 @@
-Sure, here's the full markdown code you can copy and paste:
 
-```markdown
 # 🏨 AtliQ Hospitality Analysis - PowerBI
 
 As part of the Codebasics September Resume Challenge, I worked on this analysis project.
@@ -125,4 +123,3 @@ Imported five CSV files from SharePoint directly into PowerBI using the provided
 - Regular content updates across all channels are essential to meet customer expectations and prevent cancellations.
 
 ---
-```
