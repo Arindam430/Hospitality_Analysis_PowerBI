@@ -71,7 +71,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 
 ## 📥 Importing Data into PowerBI
 
-Imported five CSV files from SharePoint directly into PowerBI using the provided credentials.
+Imported five CSV files from SharePoint directly into PowerBI using the required account credentials.
 
 ## 📊 Provided Mock-up Dashboard
 
