@@ -114,7 +114,7 @@ Imported five CSV files from SharePoint directly into PowerBI using the required
 - Mumbai generates the highest revenue (669M), followed by Bangalore, Hyderabad, and Delhi.
 - Mumbai shows both the highest and lowest occupancy rates among hotels.
 - AtliQ Exotica outperforms other properties with 320 million revenue, 3.62 rating, 57% occupancy, and 24.4% cancellation rate.
-- Ratings greatly impact online channel performance. For instance, AtliQ Seasons has the lowest occupancy due to its poor average rating (2.3).
+- Ratings greatly impact online channel performance. For instance, across all the cities, AtliQ Seasons has the lowest occupancy% at 44.57% due to its poor average rating (2.3).
 - AtliQ Bay boasts the highest occupancy at 66%.
 - Week 24 recorded the highest revenue at 139.6 million.
 - Delhi leads in both occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
