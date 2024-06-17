@@ -120,6 +120,6 @@ Imported five CSV files from SharePoint directly into PowerBI using the required
 - Delhi leads in both occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
 - AtliQ lost approximately 298 million due to cancellations.
 - Elite rooms have the most bookings but also the highest cancellation rate.
-- When customers find the hotel doesn't meet their expectations—due to outdated photos, inaccurate online content, or poor pre-check-in service—they often cancel upon arrival. Regularly updating content across all channels can help prevent cancellations and improve ratings.
+- When customers find the hotel doesn't meet their expectations due to outdated photos, inaccurate online content, or poor pre-check-in service they often cancel upon arrival. Regularly updating content across all channels can help prevent cancellations and improve ratings.
 
 ---
