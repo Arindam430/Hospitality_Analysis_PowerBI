@@ -1,7 +1,7 @@
 
 # 🏨 AtliQ Hospitality Analysis - PowerBI
 
-As part of the Codebasics September Resume Challenge, I worked on this analysis project.
+As part of the Codebasics Monthly Resume Challenges, I worked on this analysis project.
 
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
 📊 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlYzBjMjEtNWRiZS00ODZkLTllMGQtNWRjYTBmMDg3MWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
@@ -102,7 +102,7 @@ Imported five CSV files from SharePoint directly into PowerBI using the required
 - Created a new type of bar chart visual (stacked percentage bar chart) using a 100% stacked column chart, useful for various analysis purposes.
 - Built dynamic tooltips on card visuals, unlocking different use cases during data analysis.
 - Understood how price and demand dynamics, as well as price elasticity, differ significantly between the travel and tourism industry and product industries.
-- Learned that hotels often sell through multiple channels, including their own websites, and to avoid high platform commissions, they should offer unique promotions like discount coupons, free items, or extra complimentary night stays.
+- Hotels often sell through multiple channels, including their own websites. To avoid high platform commissions, they aim to offer the lowest prices on their own sites. However, they can't significantly differ prices across channels, as bots scrape prices and lower their rankings on comparison sites. Offering unique promotions like discount coupons, free items, or extra complimentary night stays helps maintain consistent base prices while providing better deals for direct bookings.
 - Discovered that RevPAR is affected by both rate and occupancy. Higher rates typically lead to lower occupancy and RevPAR, and vice versa.
 - Explored various cancellation policies followed by different hotels and learned that most hotels charge zero fees if the booking is canceled three months prior. Post that period, charges range from 60% to 90% of the booking cost.
 - Utilized bookmarks and selection for various purposes, such as page navigation and filter clearing on the dashboard. [YouTube tutorial](https://www.youtube.com/watch?v=xCSYLrcLW00).
@@ -113,13 +113,13 @@ Imported five CSV files from SharePoint directly into PowerBI using the required
 - Occupancy rates fluctuate across hotels, which is normal, but room rates have remained constant. Implementing dynamic pricing could significantly boost revenue.
 - Mumbai generates the highest revenue (669M), followed by Bangalore, Hyderabad, and Delhi.
 - Mumbai shows both the highest and lowest occupancy rates among hotels.
-- AtliQ Exotica outperforms other properties with 320 million revenue, 3.62 rating, 57% occupancy, and 24.4% cancellation rate.
+- AtliQ Exotica outperforms other properties with 316 million revenue, 3.62 rating, 57% occupancy, and 24.4% cancellation rate.
 - Ratings greatly impact online channel performance. For instance, across all the cities, AtliQ Seasons has the lowest occupancy% at 44.57% due to its poor average rating (2.3).
-- AtliQ Bay boasts the highest occupancy at 66%.
+- AtliQ Blu boasts the highest occupancy in Mumbai at 66.19%.
 - Week 24 recorded the highest revenue at 139.6 million.
 - Delhi leads in both occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
 - AtliQ lost approximately 298 million due to cancellations.
 - Elite rooms have the most bookings but also the highest cancellation rate.
-- Regular content updates across all channels are essential to meet customer expectations and prevent cancellations.
+- When customers find the hotel doesn't meet their expectations—due to outdated photos, inaccurate online content, or poor pre-check-in service—they often cancel upon arrival. Regularly updating content across all channels can help prevent cancellations and improve ratings.
 
 ---
