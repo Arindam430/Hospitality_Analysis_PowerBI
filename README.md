@@ -5,7 +5,7 @@ As part of the Codebasics Monthly Resume Challenges, I worked on this Hospitalit
 
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
 📊 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJlYzBjMjEtNWRiZS00ODZkLTllMGQtNWRjYTBmMDg3MWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-🔗 [LinkedIn Post]()
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/arindam430_hospitality-analysis-activity-7208358776813285377-47cg?utm_source=share&utm_medium=member_desktop)
 
 ## 📝 Problem Statement
 
